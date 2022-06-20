@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinSixFirst</string>
+    <string name="zero">0</string>
+    <string name="plus">Plus</string>
+    <string name="transaction">Переход</string>
+    <string name="back">Назад</string>
+    <string name="blank">Blank</string>
+</resources>
